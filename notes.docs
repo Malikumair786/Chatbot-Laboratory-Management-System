@@ -1,0 +1,7 @@
+
+for activating the virtual environemtn
+pytorch\Scripts\activate
+
+python train.py
+python chat.py
+python app.py
